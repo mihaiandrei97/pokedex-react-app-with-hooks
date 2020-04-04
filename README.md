@@ -1,4 +1,4 @@
-# Unsplash image downloader
+# Pokemon React App
 I did Florin Pop's challenge from: https://github.com/florinpop17/weekly-projects/blob/master/projects/Week%201%20-%20Pokedex.md
 The project was done based on create-react-app and i used hooks to build it.
 
