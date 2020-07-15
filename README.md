@@ -17,4 +17,4 @@ npm run build
 
 # Live website
 
-https://flamboyant-wescoff-bd05f6.netlify.com/
+https://mihai-pokedex.netlify.app/
